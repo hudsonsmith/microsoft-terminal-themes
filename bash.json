@@ -1,0 +1,23 @@
+{
+            "background": "#2A3238",
+            "black": "#0C0C0C",
+            "blue": "#6060FF",
+            "brightBlack": "#767676",
+            "brightBlue": "#3B78FF",
+            "brightCyan": "#61D6D6",
+            "brightGreen": "#4DA925",
+            "brightPurple": "#B4009E",
+            "brightRed": "#E74856",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#F9F1A5",
+            "cursorColor": "#4DA925",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#4DAA25",
+            "name": "Bash",
+            "purple": "#BF00BF",
+            "red": "#BF0000",
+            "selectionBackground": "#FFFFFF",
+            "white": "#F2F2F2",
+            "yellow": "#BFBF00"
+}

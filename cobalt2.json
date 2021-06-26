@@ -1,0 +1,23 @@
+{
+            "background": "#163042",
+            "black": "#000000",
+            "blue": "#0000FF",
+            "brightBlack": "#AAAAAA",
+            "brightBlue": "#44B4CC",
+            "brightCyan": "#19D1D8",
+            "brightGreen": "#81EC0D",
+            "brightPurple": "#FF00FF",
+            "brightRed": "#FF0000",
+            "brightWhite": "#E5E5E5",
+            "brightYellow": "#FFD93D",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#19D1D8",
+            "foreground": "#FFFFFF",
+            "green": "#00FF00",
+            "name": "Cobalt2",
+            "purple": "#9933CC",
+            "red": "#FF6600",
+            "selectionBackground": "#FFFFFF",
+            "white": "#F5F5F5",
+            "yellow": "#FFD93D"
+}

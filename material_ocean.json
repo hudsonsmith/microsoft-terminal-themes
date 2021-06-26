@@ -1,0 +1,23 @@
+{
+            "background": "#0F111A",
+            "black": "#000000",
+            "blue": "#82AAFF",
+            "brightBlack": "#464B5D",
+            "brightBlue": "#82AAFF",
+            "brightCyan": "#89DDFF",
+            "brightGreen": "#C3E88D",
+            "brightPurple": "#C792EA",
+            "brightRed": "#FF5370",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFCB6B",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#89DDFF",
+            "foreground": "#8F93A2",
+            "green": "#C3E88D",
+            "name": "Material Ocean",
+            "purple": "#C792EA",
+            "red": "#FF5370",
+            "selectionBackground": "#FFFFFF",
+            "white": "#FFFFFF",
+            "yellow": "#FFCB6B"
+}
